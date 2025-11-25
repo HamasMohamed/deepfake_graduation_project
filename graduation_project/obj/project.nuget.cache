@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4oqn275A94=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fekra\\source\\repos\\graduation_project\\graduation_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fekra\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\Fekra\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
